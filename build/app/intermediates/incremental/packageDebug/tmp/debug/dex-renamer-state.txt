@@ -1,0 +1,4 @@
+#Sun Jul 12 13:49:08 ICT 2020
+base.0=D\:\\Sm 4\\Mobile\\UAS_MOBILE-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
